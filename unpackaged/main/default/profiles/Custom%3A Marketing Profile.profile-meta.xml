@@ -103,6 +103,16 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Case.State__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Case.Region__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Case.Pre_call_details__c</field>
         <readable>true</readable>
     </fieldPermissions>
