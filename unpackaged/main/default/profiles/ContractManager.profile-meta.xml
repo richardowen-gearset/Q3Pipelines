@@ -118,6 +118,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Case.New_Activity_2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Case.New_Activity__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -154,6 +159,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Case.Post_call_details__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Case.State__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
